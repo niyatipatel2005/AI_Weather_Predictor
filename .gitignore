@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Streamlit log files
+.streamlit/
+
+# Optional: model files if too large (you can choose to track them separately)
+# weather_model.pkl
