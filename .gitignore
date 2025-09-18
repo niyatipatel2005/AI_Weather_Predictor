@@ -17,5 +17,4 @@ Thumbs.db
 # Streamlit log files
 .streamlit/
 
-# Optional: model files if too large (you can choose to track them separately)
-weather_model.pkl
+*.pkl
